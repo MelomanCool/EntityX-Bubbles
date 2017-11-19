@@ -1,0 +1,7 @@
+<map id="deprecated/collision_system.cpp" name="deprecated/collision_system.cpp">
+<area shape="rect" id="node2" href="$collision__system_8h.html" title="collision_system.h" alt="" coords="223,95,353,121"/>
+<area shape="rect" id="node6" href="$body_8h.html" title="components/body.h" alt="" coords="301,169,437,196"/>
+<area shape="rect" id="node8" href="$collideable_8h.html" title="components/collideable.h" alt="" coords="462,169,631,196"/>
+<area shape="rect" id="node9" href="$collision__event_8h.html" title="events/collision_event.h" alt="" coords="656,169,819,196"/>
+<area shape="rect" id="node10" href="$common_8h.html" title="common.h" alt="" coords="568,244,651,271"/>
+</map>

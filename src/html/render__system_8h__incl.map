@@ -1,0 +1,7 @@
+<map id="systems/render_system.h" name="systems/render_system.h">
+<area shape="rect" id="node5" href="$body_8h.html" title="components/body.h" alt="" coords="333,80,469,107"/>
+<area shape="rect" id="node7" href="$collision__event_8h.html" title="events/collision_event.h" alt="" coords="493,80,656,107"/>
+<area shape="rect" id="node8" href="$common_8h.html" title="common.h" alt="" coords="588,155,671,181"/>
+<area shape="rect" id="node10" href="$EntitySpawnedEvent_8h.html" title="events/EntitySpawnedEvent.h" alt="" coords="730,80,929,107"/>
+<area shape="rect" id="node12" href="$util_8h.html" title="util.h" alt="" coords="976,80,1027,107"/>
+</map>

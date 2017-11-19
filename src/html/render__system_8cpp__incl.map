@@ -1,0 +1,11 @@
+<map id="systems/render_system.cpp" name="systems/render_system.cpp">
+<area shape="rect" id="node2" href="$render__system_8h.html" title="render_system.h" alt="" coords="461,80,579,107"/>
+<area shape="rect" id="node11" href="$EntitySpawnedEvent_8h.html" title="events/EntitySpawnedEvent.h" alt="" coords="731,155,930,181"/>
+<area shape="rect" id="node13" href="$util_8h.html" title="util.h" alt="" coords="953,155,1004,181"/>
+<area shape="rect" id="node18" href="$collideable_8h.html" title="components/collideable.h" alt="" coords="1194,80,1363,107"/>
+<area shape="rect" id="node19" href="$renderable_8h.html" title="components/renderable.h" alt="" coords="1001,80,1169,107"/>
+<area shape="rect" id="node22" href="$shapes_8h.html" title="components/shapes.h" alt="" coords="1387,80,1538,107"/>
+<area shape="rect" id="node6" href="$body_8h.html" title="components/body.h" alt="" coords="243,155,379,181"/>
+<area shape="rect" id="node8" href="$collision__event_8h.html" title="events/collision_event.h" alt="" coords="5,155,168,181"/>
+<area shape="rect" id="node9" href="$common_8h.html" title="common.h" alt="" coords="101,229,184,256"/>
+</map>

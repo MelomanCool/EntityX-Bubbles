@@ -1,0 +1,89 @@
+\hypertarget{classRenderSystem}{}\section{Render\+System Class Reference}
+\label{classRenderSystem}\index{Render\+System@{Render\+System}}
+
+
+{\ttfamily \#include $<$render\+\_\+system.\+h$>$}
+
+
+
+Inheritance diagram for Render\+System\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{classRenderSystem__inherit__graph}
+\end{center}
+\end{figure}
+
+
+Collaboration diagram for Render\+System\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{classRenderSystem__coll__graph}
+\end{center}
+\end{figure}
+\subsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\hyperlink{classRenderSystem_ac21b38b1afa0eb3d3f21f6d1db5c49ad}{Render\+System} (sf\+::\+Render\+Target \&target, sf\+::\+Font \&font)
+\item 
+void \hyperlink{classRenderSystem_aacda55df4d6fc4ffefdad3b38b4f25f8}{update} (ex\+::\+Entity\+Manager \&es, ex\+::\+Event\+Manager \&events, ex\+::\+Time\+Delta dt) override
+\item 
+void \hyperlink{classRenderSystem_a58134d130c3fbb29d5cb59bd0a9480ad}{configure} (ex\+::\+Event\+Manager \&events) override
+\item 
+void \hyperlink{classRenderSystem_af72a474303dbd088ef9b39983e9f6a64}{receive} (const \hyperlink{classEntitySpawnedEvent}{Entity\+Spawned\+Event} \&entity\+\_\+spawned\+\_\+event)
+\item 
+void \hyperlink{classRenderSystem_a82e833dc520c9fa822d66b3878c0de69}{receive} (const ex\+::\+Entity\+Destroyed\+Event \&entity\+\_\+destroyed\+\_\+event)
+\item 
+void \hyperlink{classRenderSystem_a4877dc8f72b552e4127628fd91e3a06d}{set\+Should\+Draw\+Pos} (bool flag)
+\end{DoxyCompactItemize}
+
+
+\subsection{Constructor \& Destructor Documentation}
+\mbox{\Hypertarget{classRenderSystem_ac21b38b1afa0eb3d3f21f6d1db5c49ad}\label{classRenderSystem_ac21b38b1afa0eb3d3f21f6d1db5c49ad}} 
+\index{Render\+System@{Render\+System}!Render\+System@{Render\+System}}
+\index{Render\+System@{Render\+System}!Render\+System@{Render\+System}}
+\subsubsection{\texorpdfstring{Render\+System()}{RenderSystem()}}
+{\footnotesize\ttfamily Render\+System\+::\+Render\+System (\begin{DoxyParamCaption}\item[{sf\+::\+Render\+Target \&}]{target,  }\item[{sf\+::\+Font \&}]{font }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [explicit]}}
+
+
+
+\subsection{Member Function Documentation}
+\mbox{\Hypertarget{classRenderSystem_a58134d130c3fbb29d5cb59bd0a9480ad}\label{classRenderSystem_a58134d130c3fbb29d5cb59bd0a9480ad}} 
+\index{Render\+System@{Render\+System}!configure@{configure}}
+\index{configure@{configure}!Render\+System@{Render\+System}}
+\subsubsection{\texorpdfstring{configure()}{configure()}}
+{\footnotesize\ttfamily void Render\+System\+::configure (\begin{DoxyParamCaption}\item[{ex\+::\+Event\+Manager \&}]{events }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [override]}}
+
+\mbox{\Hypertarget{classRenderSystem_af72a474303dbd088ef9b39983e9f6a64}\label{classRenderSystem_af72a474303dbd088ef9b39983e9f6a64}} 
+\index{Render\+System@{Render\+System}!receive@{receive}}
+\index{receive@{receive}!Render\+System@{Render\+System}}
+\subsubsection{\texorpdfstring{receive()}{receive()}\hspace{0.1cm}{\footnotesize\ttfamily [1/2]}}
+{\footnotesize\ttfamily void Render\+System\+::receive (\begin{DoxyParamCaption}\item[{const \hyperlink{classEntitySpawnedEvent}{Entity\+Spawned\+Event} \&}]{entity\+\_\+spawned\+\_\+event }\end{DoxyParamCaption})}
+
+\mbox{\Hypertarget{classRenderSystem_a82e833dc520c9fa822d66b3878c0de69}\label{classRenderSystem_a82e833dc520c9fa822d66b3878c0de69}} 
+\index{Render\+System@{Render\+System}!receive@{receive}}
+\index{receive@{receive}!Render\+System@{Render\+System}}
+\subsubsection{\texorpdfstring{receive()}{receive()}\hspace{0.1cm}{\footnotesize\ttfamily [2/2]}}
+{\footnotesize\ttfamily void Render\+System\+::receive (\begin{DoxyParamCaption}\item[{const ex\+::\+Entity\+Destroyed\+Event \&}]{entity\+\_\+destroyed\+\_\+event }\end{DoxyParamCaption})}
+
+\mbox{\Hypertarget{classRenderSystem_a4877dc8f72b552e4127628fd91e3a06d}\label{classRenderSystem_a4877dc8f72b552e4127628fd91e3a06d}} 
+\index{Render\+System@{Render\+System}!set\+Should\+Draw\+Pos@{set\+Should\+Draw\+Pos}}
+\index{set\+Should\+Draw\+Pos@{set\+Should\+Draw\+Pos}!Render\+System@{Render\+System}}
+\subsubsection{\texorpdfstring{set\+Should\+Draw\+Pos()}{setShouldDrawPos()}}
+{\footnotesize\ttfamily void Render\+System\+::set\+Should\+Draw\+Pos (\begin{DoxyParamCaption}\item[{bool}]{flag }\end{DoxyParamCaption})}
+
+\mbox{\Hypertarget{classRenderSystem_aacda55df4d6fc4ffefdad3b38b4f25f8}\label{classRenderSystem_aacda55df4d6fc4ffefdad3b38b4f25f8}} 
+\index{Render\+System@{Render\+System}!update@{update}}
+\index{update@{update}!Render\+System@{Render\+System}}
+\subsubsection{\texorpdfstring{update()}{update()}}
+{\footnotesize\ttfamily void Render\+System\+::update (\begin{DoxyParamCaption}\item[{ex\+::\+Entity\+Manager \&}]{es,  }\item[{ex\+::\+Event\+Manager \&}]{events,  }\item[{ex\+::\+Time\+Delta}]{dt }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [override]}}
+
+
+
+The documentation for this class was generated from the following files\+:\begin{DoxyCompactItemize}
+\item 
+systems/\hyperlink{render__system_8h}{render\+\_\+system.\+h}\item 
+systems/\hyperlink{render__system_8cpp}{render\+\_\+system.\+cpp}\end{DoxyCompactItemize}
