@@ -1,8 +1,0 @@
-<map id="components/renderable.h" name="components/renderable.h">
-<area shape="rect" id="node2" href="$renderable_8cpp.html" title="components/renderable.cpp" alt="" coords="5,80,188,107"/>
-<area shape="rect" id="node3" href="$spawn__system_8h.html" title="systems/spawn_system.h" alt="" coords="212,80,387,107"/>
-<area shape="rect" id="node6" href="$opacity__system_8cpp.html" title="systems/opacity_system.cpp" alt="" coords="411,80,604,107"/>
-<area shape="rect" id="node7" href="$render__system_8cpp.html" title="systems/render_system.cpp" alt="" coords="629,80,815,107"/>
-<area shape="rect" id="node4" href="$main_8cpp.html" title="main.cpp" alt="" coords="183,155,258,181"/>
-<area shape="rect" id="node5" href="$spawn__system_8cpp.html" title="systems/spawn_system.cpp" alt="" coords="282,155,471,181"/>
-</map>
